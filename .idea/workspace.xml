@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b01cb3f-17db-4225-bea7-4f3359c60770" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/questions.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/quiz_brain.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_26" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="FlutterView" splitter-proportion="0.96190476" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1h8IcQTz0rdANpw0KBnf8rMiqSv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../quizzler-flutter-challenge-starting" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\angka\AndroidStudioProjects\quizzler-flutter\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b01cb3f-17db-4225-bea7-4f3359c60770" name="Default Changelist" comment="" />
+      <created>1599386371782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599386371782</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="234" y="19" key="#Vim_Emulation" timestamp="1599626645394">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="234" y="19" key="#Vim_Emulation/0.0.1280.720@0.0.1280.720" timestamp="1599626645394" />
+    <state x="97" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599621173115">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="97" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1599621173115" />
+    <state x="399" y="151" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599626586146">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="399" y="151" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1599626586146" />
+    <state x="274" y="0" key="CommitChangelistDialog2" timestamp="1599457190381">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="274" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1599457190381" />
+    <state x="422" y="116" key="FileChooserDialogImpl" timestamp="1599629762282">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="422" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1599629762282" />
+    <state width="1224" height="153" key="GridCell.Tab.0.bottom" timestamp="1599629777456">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1224" height="153" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1599629777456" />
+    <state width="1224" height="153" key="GridCell.Tab.0.center" timestamp="1599629777456">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1224" height="153" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1599629777456" />
+    <state width="1224" height="153" key="GridCell.Tab.0.left" timestamp="1599629777456">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1224" height="153" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1599629777456" />
+    <state width="1224" height="153" key="GridCell.Tab.0.right" timestamp="1599629777456">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1224" height="153" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1599629777456" />
+    <state x="301" y="0" key="SettingsEditor" timestamp="1599626817116">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="301" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1599626817116" />
+    <state x="100" y="100" width="1080" height="520" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1599621188532">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="100" y="100" width="1080" height="520" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1280.720@0.0.1280.720" timestamp="1599621188532" />
+    <state x="100" y="100" width="1080" height="520" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599389890650">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="100" y="100" width="1080" height="520" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.720@0.0.1280.720" timestamp="1599389890650" />
+    <state x="338" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1599626766529">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="338" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1599626766529" />
+    <state x="448" y="15" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1599615205528">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="448" y="15" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1280.720@0.0.1280.720" timestamp="1599615205528" />
+  </component>
+</project>
